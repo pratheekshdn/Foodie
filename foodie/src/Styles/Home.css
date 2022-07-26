@@ -1,0 +1,28 @@
+.Homepagediv{
+    background-image: url(../Assets/Homepagebg.jpeg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 50Vh;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+    background-color: rgb(7, 10, 85);
+    background-blend-mode: lighten;
+    padding: 7%;
+    color: white;
+    background-attachment: fixed;
+}
+.Homepagediv button{
+    width: 10%;
+    height: 10%;
+}
+button:hover{
+   font-size: larger;
+    background-color: aqua;
+}
+.Homepagecontent{
+    margin: auto;
+    width: 60%;
+    display:block;
+}

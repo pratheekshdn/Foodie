@@ -1,0 +1,16 @@
+.container{
+    height: 10vh;
+    background-color: rgb(68 58 58 / 67%);
+
+}
+.row-copyrights{
+    text-align: center;
+    padding-top: 1Vh;
+}
+.row-icons{
+    padding-top: 1Vh;
+    text-align: center;
+} 
+.row-icons svg{
+    margin: 1vw;
+}
